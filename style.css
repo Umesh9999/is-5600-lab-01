@@ -36,7 +36,7 @@ header {
    background-image: url('images/florence.jpg'); /* Use the uploaded image */
    background-size: cover;
    width: 100%;
-   min-height: 500px;
+   min-height: 600px;
  }
  
 
